@@ -1,6 +1,6 @@
 # Bellman-Ford-Algorithm
 Graph represented in the form of adjacency lists.
-Algorithm finds minimum distances from inital vertex to other vertices and builds the shortest-path tree.
+Algorithm finds minimum distances from inital vertex (user specified) to other vertices and builds the shortest-path tree.
 However, if there is a negative-weight cycle in the graph, the algorithm warns about it
 
 ## Complexity
